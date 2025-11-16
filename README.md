@@ -1,9 +1,9 @@
 # REFLEX-RF's Trackshift
-🏎️ Trackshift: Low-Latency FPGA AGC & Symbol Synchronization for High-Speed Telemetry
+🏎️ #REFLEX-RF's Trackshift: Low-Latency FPGA AGC & Symbol Synchronization for High-Speed Telemetry
 
 A high-performance FPGA signal-processing chain inspired by Formula 1 real-time telemetry systems.
 
-🚀 Project Overview
+🚀 # Project Overview
 
 This project implements a complete low-latency digital receiver chain on the Zynq-7000 FPGA, featuring:
 
